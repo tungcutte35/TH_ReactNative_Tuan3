@@ -10,4 +10,5 @@
 ![image](https://github.com/tungcutte35/TH_ReactNative_Tuan3/assets/90129081/f271b69b-0f8d-4a48-9119-a96fbc232d1a)
 
 #1_c
-![Uploading image.png…]()
+![image](https://github.com/tungcutte35/TH_ReactNative_Tuan3/assets/90129081/632a42bf-1894-4a56-82b9-dcbbc69236a5)
+
